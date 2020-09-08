@@ -32,7 +32,7 @@ class ACMEBicycle implements Bicycle {
     }
     
 	public static void main(String[] args) {
-		Bicycle obj = new ACMEBicycle();
+		ACMEBicycle obj = new ACMEBicycle();
 		obj.printStates();
 
 	}

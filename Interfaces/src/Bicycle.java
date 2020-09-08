@@ -9,6 +9,5 @@ interface Bicycle {
     void speedUp(int increment);
 
     void applyBrakes(int decrement);
-    
-    void printStates();
+  
 }
